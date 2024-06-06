@@ -23,7 +23,7 @@
     | 이원우 | Leader, FE |
     | 김지영 | FE |
     | 박성배 | BE |
-    | 전상현 | IOT |
+    | 전상현 | IoT |
     | 정원석 | BE |
     | 황상윤 | FE |
 - **Project Duration**
